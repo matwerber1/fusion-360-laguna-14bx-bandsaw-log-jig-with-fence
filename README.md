@@ -30,3 +30,5 @@ For simplicity, sake of time, and current lack of skill, I have omitted drawing 
 ![alt text](image3.png)
 
 For reference, the image below is an example of the clamp components that you would need to affix to the 3/4" pipe. One piece would screw on to a threaded end of the pipe that fits into that rear jig support post and the other piece would be adjustable along the length of the pipe. 
+
+![alt text](clamp.png)
