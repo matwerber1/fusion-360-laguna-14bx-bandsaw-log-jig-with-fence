@@ -11,7 +11,7 @@ In this model, the wooden jig slides over the factory aluminum fence that came w
 
 This project was inspired by various blogs, magazines, etc. I found during my Google searches.
 
-This represents my second project with Fusion 360... much to learn, but excited to be progessing with the software :)
+This represents my second project with Fusion 360 ([the first was a different jig for the same purpose](https://github.com/matwerber1/fusion-360-laguna-14bx-bandsaw-log-jig)). I still have much to learn :)
 
 ## Shoutout
 
