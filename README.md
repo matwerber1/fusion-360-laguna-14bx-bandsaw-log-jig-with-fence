@@ -15,7 +15,7 @@ This represents my second project with Fusion 360... much to learn, but excited 
 
 ## Shoutout
 
-My *very* first exposure to anything like this was through the really cool Udemy course, [**Fusion 360 for Woodworkers**](https://www.udemy.com/share/101YGAAEITdlpRTHQF/). At the time I built this project, I had only made it about ~1/2 through the course and was so excited I had to pause it and go build my own project. Highly recommend the course for any woodworker that wants to learn to use 3D modelling software. Note - I have no affiliation to the course author and do not receive any form of compensation for this recommendation.
+My *very* first exposure to anything like this was through the really cool Udemy course, [**Fusion 360 for Woodworkers**](https://www.udemy.com/share/101YGAAEITdlpRTHQF/). At the time I built this project, I had only made it about ~1/2 through the course and was so excited I had to pause it and go build my own project. Highly recommend the course for any woodworker that wants to learn to use 3D modelling software. Note - I have no affiliation to the course author and do not receive any form of compensation from the author or Udemy for this recommendation.
 
 ## Results
 
