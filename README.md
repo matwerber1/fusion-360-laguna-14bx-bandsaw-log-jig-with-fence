@@ -21,6 +21,8 @@ My *very* first exposure to anything like this was through the really cool Udemy
 
 The images below show the jig. It's a simple wooden frame that slides over the factory fence that came with the Laguna 14BX bandsaw. Most designs I saw online incorporated screws and wing nuts / clamps to be able to reposition the jig... but I saw one or two that used the existing fence and that seemed like a much simpler approach. 
 
+For simplicity, sake of time, and current lack of skill, I have omitted drawing the clamping components that would fix to the 3/4" pipe as well as the screws Ill likely use to joint the jig plates to one another.
+
 ![alt text](image1.png)
 
 ![alt text](image2.png)
