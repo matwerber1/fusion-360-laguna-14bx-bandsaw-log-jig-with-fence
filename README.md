@@ -1,6 +1,8 @@
 # fusion-360-laguna-14bx-bandsaw-log-jig-with-fence
 An AutoDesk Fusion 360 project showing a jig to saw logs on a Laguna 14BX bandsaw; jig slides over the factory fence that comes with the saw.
 
+This is based on actual measurements from the bandsaw, so hopefully when I go to build it, it works well!!
+
 ## Background
 
 I want a jig to saw logs on my bandsaw using a 3/4" pipe clamp. 
